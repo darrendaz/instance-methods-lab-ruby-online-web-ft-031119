@@ -8,7 +8,7 @@ class Person
   end
 end
 
-ada = Dog.new
+ada = Person.new
 
 ada.talk
 ada.walk
